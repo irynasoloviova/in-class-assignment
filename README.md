@@ -4,7 +4,7 @@
 
 This repository is your starting point for the assignment and includes the instructions below.
 
-Link to GitHub pages website: [http://in-class-assignment.github.io](http://in-class-assignment.github.io).
+Link to GitHub pages website: [http://inclassassignment.github.io](http://inclassassignment.github.io).
 
 ## Aim of the assignment
 Build comfort with how to use git, GitHub Pages, JS, and HTML.
